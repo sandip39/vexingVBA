@@ -6,9 +6,9 @@
 
   * The results are, in order:
 
-    * First: 3957481
-    * Second: 5865187
-    * Third: 2817729
+    * First: 9008046
+    * Second: 8768821
+    * Third: 9195830
 
   * Create a script that will return those lucky winners and print them on the sheet.
 
@@ -26,7 +26,7 @@
 
 * There may just be one other winner! The below numbers are Wild Lotto Balls. Whichever comes up first in the list will be the fourth place (runner-up) winner.
 
-  * 2275339
+  * 9632462
   * 5868182
   * 1841402
 
